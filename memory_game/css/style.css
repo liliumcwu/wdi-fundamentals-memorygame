@@ -89,4 +89,8 @@ footer {
   font-weight: 700;
 }
 
-
+#reset-button {
+  background-color: pink;
+  width: 60px;
+  margin: 30px auto 0px auto;
+}
